@@ -1,0 +1,26 @@
+body {
+background-image:url("fond.jpg");
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+
+font-family:OCR A Std, monospace;
+color: white;
+}
+
+td {
+font-weight: bold; text-align: left;
+}
+
+th {
+font-size: 40px; color: white; padding: 0; border-bottom: 3px solid white;
+}
+
+.nepasvoir {
+font-size: 20px; color: red; padding: 25;
+}
+
+.nepasimprimer {
+	font-size: 20px; color: red; padding: 25;
+}
+

@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Formulaire | Sondage</title>
+
+		<link href="CSS.css" rel="stylesheet" type="text/css">
+		<img src="drapeau.png" width="200" height="200" alt="LogoLAPIN" align="left">
+		<img src="drapeau.png" width="200" height="200" alt="LogoLAPIN" align="right">
+	</head>
+	
+	<body>
+		<FONT size=5>
+			<DIV align=center>
+				<form id="contact" method="post" action="traitement.php">
+					<fieldset><legend>Vos coordonnées</legend>
+						<p><label for="nom">Nom :</label><input type="text" id="nom" name="nom" /></p>
+						<p><label for="email">Email :</label><input type="text" id="email" name="email" /></p>
+					</fieldset>
+				 
+					<fieldset><legend>Votre message :</legend>
+						<p><label for="objet">Objet :</label><input type="text" id="objet" name="objet" /></p>
+						<p><label for="message">Message :</label><textarea id="message" name="message" cols="30" rows="8"></textarea></p>
+					</fieldset>
+				 
+					<div style="text-align:center;"><input type="submit" name="envoi" value="Envoyer le formulaire !" /></div>
+				</form>
+			</DIV>
+		</FONT>
+	</body>
+</html>
