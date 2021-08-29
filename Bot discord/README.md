@@ -21,9 +21,6 @@ Then, we will installed the voice pilote (sound of bot) and opuss or opusscript 
   - if it's necessary : `node_opus` 
   
   - ytdl : Follow the instructions on this page`https://www.npmjs.com/package/ytdl-core` 
-  
- As extra :
- How did a playlist : https://discord.js.org/#/docs/commando/master/general/welcome
 ```
 ## Usage
 
