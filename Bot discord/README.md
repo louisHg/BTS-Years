@@ -4,6 +4,9 @@ Projects did for my High School years with the goal of develop a music bot in ja
 ## Music bot
 > Simple music bot with a full-blown queue system
 
+## Manual
+There are 2 bots, *Bot-discord* is the latest version and *botjs* the first version
+
 ## Install
 
 ```bash
