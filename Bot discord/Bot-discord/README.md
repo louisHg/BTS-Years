@@ -1,61 +1,35 @@
+# Music-Bot
+> Simple music bot with a full-blown queue system that is easy to understand
 
+## Install
 
+```bash
+npm i
+```
 
-youtube id key: https://www.slickremix.com/docs/get-api-key-for-youtube/
-PUIS ENNTRE LA DANS CONFIG EN GROS CETTE IP PERMET DE RECENSER LA LECTURE DE MUSIQUE DE TA BOT SUR YTB 
-COMME ELLE EST PAS HUMAINE
+## Usage
 
+Edit the config.js file:
 
-Token:                  1°    https://www.writebots.com/discord-bot-token/
-                              2°   SAUF QUE TU DONNE TOUT LES ADMIN AU BOT
-                              3°   APRES TU COLLE LE NOM DU BOT DANS LA CONFIG DU BOT
-LE TOKEN C'EST CE QUI L'IDENTITE DE TA BOT APRES TU PEUX L'ADD SUR LE SERV DE TON CHOIX SI ELLE A BIEN SUR LES DROITS 
-(ADD SUR PARA SERV)
+```js
+exports.TOKEN = ''; // Your token here
 
+exports.PREFIX = 'm!'; // Your preferred prefix here
 
+exports.GOOGLE_API_KEY = ''; // Your youtube/google API key here
+```
 
-library (tout les packages utilisés flemme expliquer): 
-download node js
-and in cmd:
-discord====> npm init =>>> package json                                                                             
-:after=>>> npm install discord.js 
-commando discord =====> npm install discord.js-commando 
+## Contributing
 
-voice channel ===>  npm install ffmpeg         SI t'arrive pas à l'installer va voir sa https://www.youtube.com/watch?v=xcdTIDHm4KM
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
-:after=>>> npm install opusscript 
-node_opus
-ytdl
+## Author
 
+**Music-Bot** © [iCrawl](https://github.com/iCrawl), Released under the [MIT](https://github.com/iCrawl/Music-Bot/blob/master/LICENSE) License.<br>
+Authored and maintained by iCrawl.
 
-
-
-
-
-
-
-Documentary ++
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-gerer savoir faire playlist
-https://discord.js.org/#/docs/commando/master/general/welcome
-
-
-commando is an auto command handler
+> GitHub [@iCrawl](https://github.com/iCrawl) · Twitter [@iCrawlToGo](https://twitter.com/iCrawlToGo)
