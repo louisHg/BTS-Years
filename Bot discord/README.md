@@ -13,4 +13,4 @@ After open the terminal (cmd), now we will installed discord language to program
   - `npm init`
   - `npm install discord.js`
 ```
-
+## Good tests and good luck !
