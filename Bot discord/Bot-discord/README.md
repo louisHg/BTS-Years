@@ -4,14 +4,15 @@ Final version
 ## Install
 
 ```bash  
-Then, we will installed the voice pilote (sound of bot) and opuss or opusscript to bind the program and ytdl for youtube :
-  - voice channel : `npm install ffmpeg` 
-  - if it does not works, Tuto : https://www.youtube.com/watch?v=xcdTIDHm4KM
+We will installed the voice pilote (sound of bot) and opuss or opusscript to bind the program and ytdl for youtube :
+
+  voice channel : `npm install ffmpeg` 
+  if it does not works, Tuto : https://www.youtube.com/watch?v=xcdTIDHm4KM
   
-  - opusscript : `npm install opusscript`
-  - if it's necessary : `node_opus` 
+  opusscript : `npm install opusscript`
+  if it's necessary : `node_opus` 
   
-  - ytdl : Follow the instructions on this page`https://www.npmjs.com/package/ytdl-core` 
+  ytdl : Follow the instructions on this page`https://www.npmjs.com/package/ytdl-core` 
 ```
 ## Usage
 
