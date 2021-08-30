@@ -1,3 +1,9 @@
-# BTS-Years
-Some projets created during my second year in digital system.
-Actually Github in development.
+# Laboratory project
+
+Code to used WxPython. Please selected :
+> Main.py
+> LoginPanel.py
+> GestionPanel.py
+> led.py (in Laboratory project folder)
+> modele.py
+
