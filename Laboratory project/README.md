@@ -8,5 +8,6 @@ Here, my mission is to simulate an inventory management. That's why i used a mic
 ## Solution
 ```
 I held like solutions to used a Raspberry Pi 3 like microsystem, a leds strips Néo-Pixel, a serial balance and an interface wxPython programmed on Raspberry.
-![header image](https://github.com/louisHg/BTS-Years/main/Laboratory%20project/capture%20écran%20projet/materials.png)
+
 ```
+![header image](https://github.com/louisHg/BTS-Years/main/Laboratory%20project/capture%20écran%20projet/materials.png)
