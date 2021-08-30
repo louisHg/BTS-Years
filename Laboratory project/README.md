@@ -3,10 +3,10 @@ Goal : Access and inventory management of a laboratory containing hazardous prod
 ![header image](https://raw.github.com/louisHg/BTS-Years/main/Laboratory%20project/capture%20écran%20projet/labo%20pp.png)
 
 ## Mission
-```
+
 Here, my mission is to simulate an inventory management. 
 That's why i used a microsystem (Raspberry) and an interface which takes the balance measurements and indicating the location of the products with the leds.
-```
+
 
 ## Solution
 
