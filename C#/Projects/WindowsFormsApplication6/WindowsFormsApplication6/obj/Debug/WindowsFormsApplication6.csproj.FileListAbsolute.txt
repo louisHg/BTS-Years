@@ -1,0 +1,24 @@
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.Entity.dll
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Web.dll
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+c:\users\robin mahieu\documents\visual studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\MySql.Web.dll
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Administrateur\Documents\Visual Studio 2012\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
