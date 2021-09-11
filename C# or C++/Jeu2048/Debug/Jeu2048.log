@@ -1,0 +1,11 @@
+﻿La génération a démarré 09/09/2020 09:13:56.
+     1>Projet "Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\Jeu2048\Jeu2048.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Jeu2048.cpp
+         Jeu2048.cpp
+     1>q:\bts 2eme annee\informatique et reseaux\c++ 2048\jeu2048\jeu2048\jeu2048.cpp(4): fatal error C1083: Impossible d'ouvrir le fichier include : 'SDL.h' : No such file or directory
+     1>Génération du projet "Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\Jeu2048\Jeu2048.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.46

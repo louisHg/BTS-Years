@@ -1,0 +1,24 @@
+﻿La génération a démarré 09/12/2020 11:41:51.
+     1>Projet "Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\Jeu2048\Jeu2048.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\MySQL\MySQL Server 8.0\include" /I"C:\Program Files\MySQL\Connector C++ 8.0\include" /I"C:\Program Files\MySQL\Connector C++ 8.0\lib64" /I"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\connecteurs sql" /I"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\SDL2\SDL2_ttf-2.0.15\include" /I"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\SDL2\SDL2_mixer-2.0.4\include" /I"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\SDL2\include" /Zi /nologo /W3 /WX- /sdl /Od /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Jeu2048.cpp
+         Jeu2048.cpp
+     1>Jeu2048.cpp(63): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\x64\Debug\Jeu2048.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\MySQL\MySQL Server 8.0\lib" /LIBPATH:"C:\Program Files\MySQL\Connector C++ 8.0\lib64\vs14" /LIBPATH:"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\SDL2\SDL2_mixer-2.0.4\lib\x64" /LIBPATH:"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\SDL2\SDL2_ttf-2.0.15\lib\x64" /LIBPATH:"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\SDL2\lib\x64" SDL2.lib SDL2main.lib SDL2_ttf.lib SDL2_mixer.lib libmysql.lib mysqlcppconn.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\x64\Debug\Jeu2048.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\x64\Debug\Jeu2048.lib" /MACHINE:X64 x64\Debug\Jeu2048.res
+         x64\Debug\Damier.obj
+         x64\Debug\Damiertest.obj
+         x64\Debug\fenetre.obj
+         x64\Debug\Jeton.obj
+         x64\Debug\Jeu2048.obj
+         x64\Debug\Joueurs.obj
+         x64\Debug\Modele.obj
+         x64\Debug\score.obj
+         x64\Debug\Serveur.obj
+         x64\Debug\Statistique.obj
+         Jeu2048.vcxproj -> Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\x64\Debug\Jeu2048.exe
+     1>Génération du projet "Q:\BTS 2EME ANNEE\INFORMATIQUE ET RESEAUX\C++ 2048\Jeu2048\Jeu2048\Jeu2048.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.95
